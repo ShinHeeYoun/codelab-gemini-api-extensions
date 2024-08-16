@@ -15,3 +15,4 @@ npm run dev
 파일을 편집하면 페이지가 자동으로 업데이트 된다.
 
 ## 사진
+![시연사진](https://github.com/user-attachments/assets/2fc1746b-3a7d-4472-8d15-506485d187a7)
