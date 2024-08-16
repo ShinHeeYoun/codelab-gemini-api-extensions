@@ -5,7 +5,7 @@
 ## 이 프로그램을 실행하려면?
 
 1) 코드 다운로드 받기 
-2) 'src/lib/firebase.config.js'를 사용자의 Firebase 웹 앱 구성으로 바꾼다.
+2) 'src/lib/firebase.config.js'를 사용자의 Firebase 웹 앱 구성으로 바꾼다. (API 키 유출주의)
 3) 터미널을 열고 해당 폴더 위치에서 
 npm install
 npm run dev
