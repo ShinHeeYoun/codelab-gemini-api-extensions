@@ -15,7 +15,7 @@
       "**/node_modules/**"
     ],
     "frameworksBackend": {
-      "region": "us-central1"
+      "region": "asia-east1"
     }
   },
   "emulators": {
