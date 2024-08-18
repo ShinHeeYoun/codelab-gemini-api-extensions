@@ -1,7 +1,7 @@
 # Gemini API Firebase Extensions으로 AI 기반 웹 앱 개발 프로젝트
 
 이 프로젝트는 [Gemini API Firebase Extensions를 사용하여 AI 기반 웹 앱 빌드](https://firebase.google.com/codelabs/gemini-api-extensions-web) 코드랩의 코드로 구성되어 있습니다. </br>
-https://github.com/FirebaseExtended/codelab-gemini-api-extensions 해당 코드의 탬플릿을 사용하여 만들었습니다.
+[codelab-gemini-api-extensions](https://github.com/FirebaseExtended/codelab-gemini-api-extensions) 해당 레포지토리의 탬플릿을 사용하여 만들었습니다.
 
 ## 이 프로그램을 실행하려면?
 
@@ -17,3 +17,4 @@ npm run dev
 
 ## 사진
 ![시연사진](https://github.com/user-attachments/assets/2fc1746b-3a7d-4472-8d15-506485d187a7)
+
