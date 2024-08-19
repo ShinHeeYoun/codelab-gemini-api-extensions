@@ -17,4 +17,5 @@ npm run dev
 
 ## 사진
 ![시연사진](https://github.com/user-attachments/assets/2fc1746b-3a7d-4472-8d15-506485d187a7)
+![01](https://github.com/user-attachments/assets/6a132735-12c1-4ec1-98f0-c51659435cc4)
 
